@@ -16,17 +16,6 @@ from config import (
     GEMINI_MODEL,
     COLLEGE_NAME,
 )
-import importlib
-import config
-import faq_agent
-import document_search
-import admin
-
-importlib.reload(config)
-importlib.reload(faq_agent)
-importlib.reload(document_search)
-importlib.reload(admin)
-
 from faq_agent import CollegeFAQAgent
 from document_search import DocumentSearchManager
 from admin import AdminManager, CATEGORIES
