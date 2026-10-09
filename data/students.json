@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Student",
+    "email": "student@amman.edu",
+    "password": "student123",
+    "department": "CSE"
+  },
+  {
+    "name": "Priya S",
+    "email": "priya@amman.edu",
+    "password": "student123",
+    "department": "AI&DS"
+  }
+]

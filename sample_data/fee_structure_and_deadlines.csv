@@ -1,0 +1,10 @@
+Fee_Category,Department_or_Quota,Annual_Amount_INR,Due_Date,Late_Fee_INR,Payment_Mode
+Tuition Fee - Govt Quota,All Engineering Branches,55000,"August 15, 2026",500,Online NetBanking / UPI
+Tuition Fee - Management Quota,Computer Science & AI,125000,"August 15, 2026",1000,Online NetBanking / Demand Draft
+Tuition Fee - Management Quota,Mechanical & Civil,85000,"August 15, 2026",1000,Online NetBanking / Demand Draft
+Semester Exam Fee,All UG Courses,250 per theory paper,"September 30, 2026",200,Student Portal Payment Gateway
+Hostel Room Rent (AC),Boys & Girls Hostel,60000 per year,"July 31, 2026",500,Hostel Office DD / NetBanking
+Hostel Room Rent (Non-AC),Boys & Girls Hostel,35000 per year,"July 31, 2026",500,Hostel Office DD / NetBanking
+Mess Food Fee,Hostel Resident Students,42000 per year,Payable in two installments (July & Dec),250,Hostel Account Online
+College Bus Transport Fee,Within 15 KM radius,18000 per year,"August 10, 2026",300,Transport Section Counter
+College Bus Transport Fee,Beyond 15 KM radius,26000 per year,"August 10, 2026",300,Transport Section Counter

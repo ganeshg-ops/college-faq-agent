@@ -1,0 +1,44 @@
+[
+  {
+    "event": "Pongal & Tamil Harvest Festival",
+    "date": "January 14 to January 17, 2026",
+    "type": "Government & College Holiday",
+    "tamil_name": "பொங்கல் மற்றும் உழவர் திருநாள் விடுமுறை",
+    "description": "College closed for all academic and administrative activities for 4 days."
+  },
+  {
+    "event": "Republic Day",
+    "date": "January 26, 2026",
+    "type": "National Holiday",
+    "tamil_name": "குடியரசு தின விழா",
+    "description": "Flag hoisting at 8:30 AM in College Central Ground. Attendance compulsory for NCC/NSS cadets."
+  },
+  {
+    "event": "Annual College Cultural & Tech Symposium (AURA 2026)",
+    "date": "March 20 to March 21, 2026",
+    "type": "College Fest",
+    "tamil_name": "கல்லூரி கலாச்சார மற்றும் தொழில்நுட்ப விழா",
+    "description": "Two-day inter-college national technical symposium and cultural event."
+  },
+  {
+    "event": "Tamil New Year / Puthandu",
+    "date": "April 14, 2026",
+    "type": "State Holiday",
+    "tamil_name": "தமிழ் புத்தாண்டு விடுமுறை",
+    "description": "Official holiday across all institutions in Tamil Nadu."
+  },
+  {
+    "event": "End-Semester Examinations (Even Semester)",
+    "date": "May 4 to May 25, 2026",
+    "type": "Academic Examination Schedule",
+    "tamil_name": "பருவத் தேர்வுகள் அட்டவணை",
+    "description": "Theory examinations conducted in morning and afternoon sessions."
+  },
+  {
+    "event": "Summer Vacation for Students",
+    "date": "June 1 to July 5, 2026",
+    "type": "Student Vacation",
+    "tamil_name": "கோடை விடுமுறை",
+    "description": "College reopens for Odd Semester classes on Monday, July 6, 2026."
+  }
+]

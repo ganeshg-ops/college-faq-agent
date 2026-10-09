@@ -1,0 +1,394 @@
+[
+  {
+    "id": "7c43e220",
+    "question": "What is the name of the college?",
+    "timestamp": "2026-10-09T07:45:45.330294+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\nAMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE\nPage 1\n AMMAN GROUP OF INSTITUTIONS\n College FAQ Agent — Sample College Knowledge Base | Academic Year 2026–2027\nDEMO / FICTIONAL DETAILS — NOT OFFICIAL COLLEGE POLICY\nPrepared for testing a student AI College FAQ Agent. The college name and requested departments are used as a project\nlabel; timings, rules, fees, dates, and service details below ar...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "5c20eee2",
+    "question": "what is name college?",
+    "timestamp": "2026-10-09T07:48:22.586569+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\nAMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE\nPage 1\n AMMAN GROUP OF INSTITUTIONS\n College FAQ Agent — Sample College Knowledge Base | Academic Year 2026–2027\nDEMO / FICTIONAL DETAILS — NOT OFFICIAL COLLEGE POLICY\nPrepared for testing a student AI College FAQ Agent. The college name and requested departments are used as a project\nlabel; timings, rules, fees, dates, and service details below ar...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "0e8ad293",
+    "question": "what is name college?",
+    "timestamp": "2026-10-09T07:54:26.648131+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "The name of the college is **AMMAN GROUP OF INSTITUTIONS**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "ba35e28d",
+    "question": "What is the name of the college?",
+    "timestamp": "2026-10-09T07:55:44.435657+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\nAMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE\nPage 1\n AMMAN GROUP OF INSTITUTIONS\n College FAQ Agent — Sample College Knowledge Base | Academic Year 2026–2027\nDEMO / FICTIONAL DETAILS — NOT OFFICIAL COLLEGE POLICY\nPrepared for testing a student AI College FAQ Agent. The college name and requested departments are used as a project\nlabel; timings, rules, fees, dates, and service details below ar...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "4541505e",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T07:56:11.342929+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "55b177d9",
+    "question": "What are the classroom rules?",
+    "timestamp": "2026-10-09T07:57:27.518870+00:00",
+    "category": "Timetable & Schedules",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\nAMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE\nPage 2\nActivity\nSample time\nLibrary / activity / departure\n4:15 PM – 5:00 PM\n4. Sample Academic Rules\n Topic\nSample rule for demo (verify official policy)\nAttendance\nTarget at least 75% attendance in each course. Eligibility and exceptions must follow the actual\nuniversity/college regulations.\nLate arrival\nStudents arriving after 9:00 AM should rep...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 2,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "899b96d1",
+    "question": "What is the minimum attendance requirement?",
+    "timestamp": "2026-10-09T08:00:10.657715+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "a69f7bed",
+    "question": "What is the minimum attendance requirement?",
+    "timestamp": "2026-10-09T08:00:12.452812+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "bed309fe",
+    "question": "What are the fees and deadlines for college bus transport?",
+    "timestamp": "2026-10-09T08:00:22.838765+00:00",
+    "category": "Fees & Payments",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\nFollow instructions, use required protective equipment, and report damaged equipment.\nHostel\nRules, curfew, visitor timings, and warden contact must be taken from the official hostel handbook.\nTransport\nBus routes and timings vary; consult the approved transport schedule.\nPlacement cell\nFollow official placement announcements, eligibility criteria, and registration deadlines.\n7. Fees, Scholarships...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 2)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "2e3932e0",
+    "question": "1. What is the name of the college?\n\n2. Which departments are available in AMMAN GROUP OF INSTITUTIONS?\n\n3. What time does the college start?\n\n4. What is the minimum attendance requirement?\n\n5. What is the tuition fee?",
+    "timestamp": "2026-10-09T08:00:48.220625+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "9a6124da",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:03:01.964167+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "13fb1417",
+    "question": "What is the college name?",
+    "timestamp": "2026-10-09T08:03:28.989284+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "The name of the college is **AMMAN GROUP OF INSTITUTIONS**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "0adb2da6",
+    "question": "Which departments are available?",
+    "timestamp": "2026-10-09T08:03:46.423831+00:00",
+    "category": "Faculty & Departments",
+    "status": "answered",
+    "answer": "**Available Departments:**\n• **CSE** – Computer Science and Engineering\n• **MECH** – Mechanical Engineering\n• **IT** – Information Technology\n• **AI&DS** – Artificial Intelligence and Data Science\n• **ECE** – Electronics and Communication Engineering",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "6c589ca9",
+    "question": "1. What is the name of the college?\n\n2. Which departments are available in AMMAN GROUP OF INSTITUTIONS?\n\n3. What time does the college start?\n\n4. What is the minimum attendance requirement?\n\n5. What is the tuition fee?",
+    "timestamp": "2026-10-09T08:05:00.925697+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "e231e8df",
+    "question": "1. What is the name of the college?\n\n2. Which departments are available in AMMAN GROUP OF INSTITUTIONS?\n\n3. What time does the college start?\n\n4. What is the minimum attendance requirement?\n\n5. What is the tuition fee?",
+    "timestamp": "2026-10-09T08:05:40.241430+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "17a9c072",
+    "question": "1. What is the name of the college?\n\n2. Which departments are available in AMMAN GROUP OF INSTITUTIONS?\n\n3. What time does the college start?\n\n4. What is the minimum attendance requirement?\n\n5. What is the tuition fee?",
+    "timestamp": "2026-10-09T08:06:51.114200+00:00",
+    "category": "Attendance",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "c778678a",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:07:00.721641+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "[Extractive fallback - GEMINI_API_KEY not configured]\n\n8. Example FAQs for Testing the AI Agent\n Student question\nExpected Agent behaviour\nWhich departments are available?\nList the five departments in Section 2 and cite this PDF.\nWhat time do classes start?\nAnswer 9:00 AM as a sample schedule and clearly mark this PDF as demo data.\nWhat is the attendance requirement?\nReturn the sample 75% value with a warning that actual policy must be verified.\nWhat ...",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "9074ca73",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:13:43.523057+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "4e8e00b1",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:19:32.790407+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "e31062a0",
+    "question": "What time does the college start?\\",
+    "timestamp": "2026-10-09T08:19:45.298116+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "fbea21f0",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:32:44.657811+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "411de22d",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:32:45.623468+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "b481e7ed",
+    "question": "Which departments are available?",
+    "timestamp": "2026-10-09T08:32:50.448564+00:00",
+    "category": "Faculty & Departments",
+    "status": "answered",
+    "answer": "**Available Departments:**\n• **CSE** – Computer Science and Engineering\n• **MECH** – Mechanical Engineering\n• **IT** – Information Technology\n• **AI&DS** – Artificial Intelligence and Data Science\n• **ECE** – Electronics and Communication Engineering",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "75268bc1",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T08:57:55.366780+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "91bfc4b2",
+    "question": "Which departments are available?",
+    "timestamp": "2026-10-09T08:57:59.866245+00:00",
+    "category": "Faculty & Departments",
+    "status": "answered",
+    "answer": "**Available Departments:**\n• **CSE** – Computer Science and Engineering\n• **MECH** – Mechanical Engineering\n• **IT** – Information Technology\n• **AI&DS** – Artificial Intelligence and Data Science\n• **ECE** – Electronics and Communication Engineering",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "b45d456e",
+    "question": "What is the college name?",
+    "timestamp": "2026-10-09T08:58:04.453365+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "The name of the college is **AMMAN GROUP OF INSTITUTIONS**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 1,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "a0a939e9",
+    "question": "What time does the college start?",
+    "timestamp": "2026-10-09T09:01:36.743770+00:00",
+    "category": "General Regulations",
+    "status": "answered",
+    "answer": "College entry / reporting is **8:45 AM – 9:00 AM**, and morning classes start at **9:00 AM**.",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  },
+  {
+    "id": "5e57021c",
+    "question": "Which departments are available?",
+    "timestamp": "2026-10-09T09:01:40.150260+00:00",
+    "category": "Faculty & Departments",
+    "status": "answered",
+    "answer": "**Available Departments:**\n• **CSE** – Computer Science and Engineering\n• **MECH** – Mechanical Engineering\n• **IT** – Information Technology\n• **AI&DS** – Artificial Intelligence and Data Science\n• **ECE** – Electronics and Communication Engineering",
+    "source": {
+      "document": "amman_group_of_institutions_sample_details.pdf",
+      "page": 3,
+      "section": "AMMAN GROUP OF INSTITUTIONS | DEMO KNOWLEDGE BASE (Part 3)"
+    },
+    "needs_human_review": false
+  }
+]

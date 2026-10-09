@@ -1,0 +1,55 @@
+[
+  {
+    "department": "Computer Science and Engineering (CSE)",
+    "hod_name": "Dr. K. Senthil Kumar, Ph.D.",
+    "office_location": "Academic Block A, Third Floor, Room 304",
+    "contact_email": "hod.cse@college.edu",
+    "phone_extension": "401",
+    "labs": [
+      "Artificial Intelligence Lab",
+      "Cloud Computing Lab",
+      "Open Source Software Lab"
+    ],
+    "total_faculty": 28
+  },
+  {
+    "department": "Electronics and Communication Engineering (ECE)",
+    "hod_name": "Dr. M. Revathi, Ph.D.",
+    "office_location": "Academic Block B, Second Floor, Room 208",
+    "contact_email": "hod.ece@college.edu",
+    "phone_extension": "402",
+    "labs": [
+      "VLSI Design Lab",
+      "Embedded Systems Lab",
+      "Optical & Microwave Lab"
+    ],
+    "total_faculty": 24
+  },
+  {
+    "department": "Mechanical Engineering (MECH)",
+    "hod_name": "Dr. P. Rajasekaran, Ph.D.",
+    "office_location": "Workshop Block C, Ground Floor, Room 102",
+    "contact_email": "hod.mech@college.edu",
+    "phone_extension": "403",
+    "labs": [
+      "CAD/CAM Simulation Center",
+      "Thermal Engineering Lab",
+      "Mechatronics Lab"
+    ],
+    "total_faculty": 20
+  },
+  {
+    "department": "Office of the Dean of Student Affairs",
+    "hod_name": "Prof. A. Vijayalakshmi",
+    "office_location": "Administrative Block, First Floor, Room 110",
+    "contact_email": "studentaffairs@college.edu",
+    "phone_extension": "105",
+    "services": [
+      "Scholarships",
+      "Bus Passes",
+      "Railway Concession",
+      "Grievance Redressal"
+    ],
+    "total_faculty": 6
+  }
+]
